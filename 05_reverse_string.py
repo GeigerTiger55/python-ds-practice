@@ -12,4 +12,3 @@ def reverse_string(phrase):
     list_chars.reverse()
     reversed_phrase = "".join(list_chars)
     return reversed_phrase
-    
